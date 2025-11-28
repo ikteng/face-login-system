@@ -1,0 +1,10 @@
+.recognize-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.video-wrap video,
+.video-wrap canvas {
+  width: 100%;
+  border-radius: 10px;
+}
